@@ -1,5 +1,5 @@
 {
   "token": "add-token",
-  "prefix": "->",
+  "prefix": ">",
   "cacheTime": 300000
 }
