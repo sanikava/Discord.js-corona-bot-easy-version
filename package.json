@@ -1,0 +1,8 @@
+{
+  "name": "discord-covid-19",
+  "version": "1.0.0",
+  "dependencies": {
+    "discord.js": "^12.0.2",
+    "node-fetch": "^2.6.1"
+  }
+}
